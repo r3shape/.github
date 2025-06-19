@@ -2,7 +2,7 @@
 > # rethink, rebuild, remaster.  
 
 Providing foundational open-source tools for developers, with an emphasis on clarity, extensibility, and simplicity.  
-[Join the movement,  lets reshape open-source together!](https://github.com/orgs/r3shape/repositories)
+Lets reshape open-source together!](https://github.com/orgs/r3shape/repositories)
 
 ### Resources
 [Community](https://github.com/r3shape/community)
